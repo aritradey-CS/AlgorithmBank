@@ -1,4 +1,4 @@
-#Currency_Convert
+#Currency_Converter
 
 def inr_to_usd(amount):
     exchange_rate = 0.014  # 1 INR = 0.014 USD
